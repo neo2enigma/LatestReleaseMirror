@@ -157,25 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="kianmhz--gooserelayvpn"></div>
 
-### Kianmhz--GooseRelayVPN
-
-🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.5.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.5.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `GooseRelayVPN-client-v1.5.0-windows-amd64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-windows-amd64.zip) |
-
----
-
-<div id="coreybutler--nvm-windows"></div>
-
-### coreybutler--nvm-windows
-
-🔗 [source](https://github.com/coreybutler/nvm-windows) – [<code><small>1.2.2</small></code>](https://github.com/coreybutler/nvm-windows/releases/tag/1.2.2)
-
-| File | Size | Download |
-|------|------|----------|
-| `nvm-setup.exe` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/coreybutler/nvm-windows/nvm-setup.exe) |
 <!-- RELEASES_END -->
