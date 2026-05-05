@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="coreybutler--nvm-windows"></div>
 
+### coreybutler--nvm-windows
+
+🔗 [source](https://github.com/coreybutler/nvm-windows) – [<code><small>1.2.2</small></code>](https://github.com/coreybutler/nvm-windows/releases/tag/1.2.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `nvm-setup.exe` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/coreybutler/nvm-windows/nvm-setup.exe) |
 <!-- RELEASES_END -->
