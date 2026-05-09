@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `slipnet-linux-amd64` | 2.8 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-linux-amd64) |
+| `SlipNet-v2.5.3-full-release-arm64-v8a.apk` | 25.6 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) |
 <!-- RELEASES_END -->
