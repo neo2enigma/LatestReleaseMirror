@@ -157,13 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="anonvector--slipnet"></div>
+<div id="iampedii--range-scout"></div>
 
-### anonvector--SlipNet
+### iampedii--range-scout
 
-🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+🔗 [source](https://github.com/iampedii/range-scout) – [<code><small>v0.7.0</small></code>](https://github.com/iampedii/range-scout/releases/tag/v0.7.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `SlipNet-v2.5.3-full-release-arm64-v8a.apk` | 25.6 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-arm64-v8a.apk) |
+| `range-scout_linux_amd64` | 10.2 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_linux_amd64) |
+| `range-scout_linux_amd64.tar.gz` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_linux_amd64.tar.gz) |
 <!-- RELEASES_END -->
