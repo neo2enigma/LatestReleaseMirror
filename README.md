@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="hidden-node--gooserelayvpn-androidclient"></div>
+
+### Hidden-Node--GooseRelayVPN-AndroidClient
+
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.2</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-HN-1.0.2-universal-release.apk` | 37.3 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-universal-release.apk) |
+
+---
+
 <div id="iampedii--range-scout"></div>
 
 ### iampedii--range-scout
