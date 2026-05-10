@@ -1,1 +1,1 @@
-iampedii/range-scout|range-scout_linux_amd64
+Hidden-Node/GooseRelayVPN-AndroidClient|GooseRelayVPN-HN-1.0.2-universal-release.apk
