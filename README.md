@@ -165,18 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `zyrln-relay` | 8.8 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-relay) |
-
----
-
-<div id="aleskxyz--coredns"></div>
-
-### aleskxyz--coredns
-
-🔗 [source](https://github.com/aleskxyz/coredns) – [<code><small>v1.14.3</small></code>](https://github.com/aleskxyz/coredns/releases/tag/v1.14.3)
-
-| File | Size | Download |
-|------|------|----------|
-| `coredns_1.14.3_windows_amd64.zip` | 21.7 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_windows_amd64.zip) |
-| `coredns_1.14.3_windows_amd64.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_windows_amd64.zip.sha256) |
+| `zyrln-linux-amd64` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-linux-amd64) |
 <!-- RELEASES_END -->
