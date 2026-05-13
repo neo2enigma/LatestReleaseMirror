@@ -1,1 +1,1 @@
-Hidden-Node/GooseRelayVPN-AndroidClient|GooseRelayVPN-HN-1.0.2-universal-release.apk
+aleskxyz/coredns|coredns_1.14.3_windows_amd64.zip
