@@ -157,26 +157,26 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="hidden-node--gooserelayvpn-androidclient"></div>
+<div id="ajavadinezhad--zyrln"></div>
 
-### Hidden-Node--GooseRelayVPN-AndroidClient
+### ajavadinezhad--zyrln
 
-🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.2</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.2)
+🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.4.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.4.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-HN-1.0.2-universal-release.apk` | 37.3 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-universal-release.apk) |
+| `zyrln-relay` | 8.8 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-relay) |
 
 ---
 
-<div id="iampedii--range-scout"></div>
+<div id="aleskxyz--coredns"></div>
 
-### iampedii--range-scout
+### aleskxyz--coredns
 
-🔗 [source](https://github.com/iampedii/range-scout) – [<code><small>v0.7.0</small></code>](https://github.com/iampedii/range-scout/releases/tag/v0.7.0)
+🔗 [source](https://github.com/aleskxyz/coredns) – [<code><small>v1.14.3</small></code>](https://github.com/aleskxyz/coredns/releases/tag/v1.14.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `range-scout_linux_amd64` | 10.2 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_linux_amd64) |
-| `range-scout_linux_amd64.tar.gz` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/iampedii/range-scout/range-scout_linux_amd64.tar.gz) |
+| `coredns_1.14.3_windows_amd64.zip` | 21.7 MB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_windows_amd64.zip) |
+| `coredns_1.14.3_windows_amd64.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/neo2enigma/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_windows_amd64.zip.sha256) |
 <!-- RELEASES_END -->
