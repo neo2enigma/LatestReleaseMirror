@@ -1,9 +1,9 @@
-aleskxyz/coredns|coredns_1.14.3_windows_amd64.zip
+# aleskxyz/coredns|coredns_1.14.3_windows_amd64.zip
 
 ajavadinezhad/zyrln|zyrln-linux-amd64
 
-ajavadinezhad/zyrln|zyrln-windows-amd64.exe
+# ajavadinezhad/zyrln|zyrln-windows-amd64.exe
 
-ajavadinezhad/zyrln|zyrln-1.4.0.apk
+# ajavadinezhad/zyrln|zyrln-1.4.0.apk
 
-ajavadinezhad/zyrln|zyrln-relay 
+# ajavadinezhad/zyrln|zyrln-relay 
