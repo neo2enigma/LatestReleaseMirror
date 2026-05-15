@@ -8,4 +8,6 @@
 
 # ajavadinezhad/zyrln|zyrln-relay 
 
-shirokhorshid/shirokhorshid-android|ShirOKhorshid-2026.05.14.apk
+# shirokhorshid/shirokhorshid-android|ShirOKhorshid-2026.05.14.apk
+
+expo/expo-go-releases|Expo-Go-55.0.7.apk
