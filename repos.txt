@@ -10,4 +10,5 @@
 
 # shirokhorshid/shirokhorshid-android|ShirOKhorshid-2026.05.14.apk
 
+# Expo Go
 expo/expo-go-releases|Expo-Go-55.0.7.apk
